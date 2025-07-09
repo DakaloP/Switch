@@ -71,7 +71,3 @@ let MathScore1 = [
   ];
 console.table(MathScore1);
   
- // MathScore.push(["Tom Right", 30, 32, "B"]);
-  
-  //MathScore.unshift(["Alice George", 28, 62, "A"]);
-  
